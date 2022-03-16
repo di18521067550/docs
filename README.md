@@ -1,2 +1,2 @@
-# docs
+# vuepress-qdblog
 vuepress-qdblog
